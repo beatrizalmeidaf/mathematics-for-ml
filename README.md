@@ -1,4 +1,4 @@
-# 📚 *Mathematics for Machine Learning*  
+# 🧮 *Mathematics for Machine Learning*  
 
 Esse repositório foi criado para consolidar aprendizados, resolver exercícios e compartilhar anotações relacionadas ao livro **Mathematics for Machine Learning**.
 
